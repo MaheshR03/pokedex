@@ -37,7 +37,7 @@ This Pokédex application provides an interactive way to explore and learn about
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MaheshR03/pokedex.git
    cd pokedex
    ```
 
